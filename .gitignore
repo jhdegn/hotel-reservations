@@ -1,0 +1,4 @@
+# my git ignore file
+
+.ipynb_checkpoints/
+
