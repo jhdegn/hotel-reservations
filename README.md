@@ -1,2 +1,3 @@
 # hotel-reservations
-Group project for Stat 420
+Group project for Stat 426
+
